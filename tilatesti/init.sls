@@ -1,2 +1,2 @@
-/etc/tilatesti
+/etc/tilatesti:
   file.managed
